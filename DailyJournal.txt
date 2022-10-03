@@ -1,1 +1,6 @@
-Dear Journal, I hope you're doing good. Who are you going to the dance with? I heard the Dictionary's looking for someone.. Sure he's a bit on the thicker side, but does that really matter?
+For my internship, I'm working at Desjardins in the Data Virtualization (Virtualisation de données) department. We're working with Autonodo and Denodo softwares to centralize the databases of the company and make everything more streamlined.
+
+My internship is from September 7th to December 23rd, so by the time I'm writing this I've started almost a month ago. As of now I'm working with Java but officially I am to help design the interface in React Typescript.
+
+**October 3rd**
+My first task was given to me last Wednesday, I had Thursday and Friday off so this is my second day working on my task. It basically consists of refactoring some codes into a new class. I've been reading a lot of documentation but tomorrow morning I have a few questions I will ask my team leader to help me understand better the overall project and to make sure I'm on the right path.
