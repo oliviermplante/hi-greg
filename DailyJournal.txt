@@ -4,3 +4,6 @@ My internship is from September 7th to December 23rd, so by the time I'm writing
 
 **October 3rd**
 My first task was given to me last Wednesday, I had Thursday and Friday off so this is my second day working on my task. It basically consists of refactoring some codes into a new class. I've been reading a lot of documentation but tomorrow morning I have a few questions I will ask my team leader to help me understand better the overall project and to make sure I'm on the right path.
+
+**October 4th**
+I asked my team leader for some help this morning and continued working on my task. We had an hour long meeting in the afternoon to talk about Azure architecture and talk about things related to what we're doing. 
