@@ -7,3 +7,6 @@ My first task was given to me last Wednesday, I had Thursday and Friday off so t
 
 **October 4th**
 I asked my team leader for some help this morning and continued working on my task. We had an hour long meeting in the afternoon to talk about Azure architecture and talk about things related to what we're doing. 
+
+**October 5th**
+Finished my task, tomorrow we will make sure the tests that run parallel to it work properly. We had the end of our 3 weeks sprint today, so there was a few meetings about that, and another explaining Autonodo to a team that will test run it. 
