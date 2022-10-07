@@ -10,3 +10,9 @@ I asked my team leader for some help this morning and continued working on my ta
 
 **October 5th**
 Finished my task, tomorrow we will make sure the tests that run parallel to it work properly. We had the end of our 3 weeks sprint today, so there was a few meetings about that, and another explaining Autonodo to a team that will test run it. 
+
+**October 6th**
+Start working on an interface to be able to do tests relating to Denodo. It's in react typescript and I'll probably be working on it for the duration of my internship. Talked about the next sprint and had a few "récits" laid out for me.
+
+**October 7th**
+Continued working on my interface, did the navbar and the header, made sure everything was in order. Installed the right dependencies and what not. 
