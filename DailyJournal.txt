@@ -16,3 +16,12 @@ Start working on an interface to be able to do tests relating to Denodo. It's in
 
 **October 7th**
 Continued working on my interface, did the navbar and the header, made sure everything was in order. Installed the right dependencies and what not. 
+
+**October 11th**
+Working on the html/css aspect of the interface, completed the header and the navbar, making my way to the main body soon. Trying to make my code as clear as possible and I'm learning typescript as I go along since it's new to me.
+
+**October 12th**
+Working my way through the main body of the page, creating the controller tables to able to do tests at some point. Still working on the front-end though, and probably will for a few days or a week until I can take a look at the back-end and connect everything together.
+
+**October 13th**
+Continuing my interface, my main challenge from yesterday is to make nested dropdown menu. My goal is to do that today and be able to work on the design of the testing table.
