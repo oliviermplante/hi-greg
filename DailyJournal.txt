@@ -25,3 +25,6 @@ Working my way through the main body of the page, creating the controller tables
 
 **October 13th**
 Continuing my interface, my main challenge from yesterday is to make nested dropdown menu. My goal is to do that today and be able to work on the design of the testing table.
+
+**October 14th**
+Another day in sunny Desjardins. I got the hang of the nested dropdown menus and I'm working on the main testing interface now, so far so good. Things are looking good and I'm able to add more stuff everyday. I believe I have maybe one more weeks of mostly designing the page. Then I'll remove the test content and replace it with actual content.
