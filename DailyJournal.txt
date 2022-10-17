@@ -28,3 +28,6 @@ Continuing my interface, my main challenge from yesterday is to make nested drop
 
 **October 14th**
 Another day in sunny Desjardins. I got the hang of the nested dropdown menus and I'm working on the main testing interface now, so far so good. Things are looking good and I'm able to add more stuff everyday. I believe I have maybe one more weeks of mostly designing the page. Then I'll remove the test content and replace it with actual content.
+
+**October 17th**
+Almost done with the html/css aspect of my interface. I just have one button to complete which will make some fields appear to write data to test in. But overall it's looking good! Then I will have to change the "sample data" for real data, and a bunch of other fun stuff that'll probably take me a bit.
