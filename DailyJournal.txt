@@ -34,3 +34,7 @@ Almost done with the html/css aspect of my interface. I just have one button to 
 
 **October 18th**
 I finished the design (html/css) aspect of my interface and showed them to my team. They liked it alot but would like me to make it a bit simpler so I've been simpifying it a bit in the afternoon. Tomorrow I hope to finish that and start working on the classes and functions.
+
+**October 19th**
+Continued working on my simplified design page. Summoning my inner Steve Jobs to make sure everything is nice and clean yet simple to use and intuitive. 
+
