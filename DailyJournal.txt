@@ -38,3 +38,8 @@ I finished the design (html/css) aspect of my interface and showed them to my te
 **October 19th**
 Continued working on my simplified design page. Summoning my inner Steve Jobs to make sure everything is nice and clean yet simple to use and intuitive. 
 
+**October 20th**
+Worked on the hooks for my form and cleaned my code a bit.
+
+**October 21st**
+Finished the form section of my interface and made sure everything is okay. Next week I'll start connecting it to the backend.
