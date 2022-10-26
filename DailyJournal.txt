@@ -49,3 +49,6 @@ Today I was a bit sick, so I didn't do as much coding but did a lot of reading a
 
 **October 23rd**
 I had a meeting with my "marraine de stage" to understand better how to connect my interface to the back-end and receive some feedbacks on my interface. Did a bit of coding and modifications here and there and continued reading about it.
+
+**October 24th**
+Had a sprint review, I've been working on connecting my react typescript front end to the pre-existing springboot backend, hoping to make it work soon and get a few tests going.
