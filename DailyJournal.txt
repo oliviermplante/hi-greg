@@ -61,3 +61,6 @@ Managed to connect the client side to the server side, but receiving errors whil
 
 **October 31st, the spookiest of days**
 Working on getting the results from the back-end to show in my front-end. Looking at resources online and trying different things. Inching closer to a solution but not quite there yet. It's my goal of the week.
+
+**November 1st**
+Still working on the same problem, getting closer though. I have different errors so that's usually a good thing right. 
