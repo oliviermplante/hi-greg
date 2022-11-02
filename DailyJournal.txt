@@ -64,3 +64,6 @@ Working on getting the results from the back-end to show in my front-end. Lookin
 
 **November 1st**
 Still working on the same problem, getting closer though. I have different errors so that's usually a good thing right. 
+
+**November 2nd**
+Managed to get my POST to post to the back-end, still not showing the results of the tests but it's a big step forward! Had a bit of help from a co-worker to figure out what the problem could be and we figured the code was okay, but there was something that kept my POST to connect to the back-end.
