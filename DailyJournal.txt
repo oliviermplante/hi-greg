@@ -67,3 +67,9 @@ Still working on the same problem, getting closer though. I have different error
 
 **November 2nd**
 Managed to get my POST to post to the back-end, still not showing the results of the tests but it's a big step forward! Had a bit of help from a co-worker to figure out what the problem could be and we figured the code was okay, but there was something that kept my POST to connect to the back-end.
+
+**November 3rd**
+Continued working on connecting my client side to the server side. I need the test file to be able to see a working 200 response but so far things seem better. 
+
+**November 4th**
+Managed to get a few more things working here, there's no one to help me today but on Monday I have a call to receive the test file and then continue working on it. I'm not able to receive a response directly on the interface yet, only in the console, so that'll be the next step.
