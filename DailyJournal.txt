@@ -73,3 +73,9 @@ Continued working on connecting my client side to the server side. I need the te
 
 **November 4th**
 Managed to get a few more things working here, there's no one to help me today but on Monday I have a call to receive the test file and then continue working on it. I'm not able to receive a response directly on the interface yet, only in the console, so that'll be the next step.
+
+**November 7th**
+Still working on getting a 200 response from my interface when I send a form. Changing a few things, reading a lot of documentations and keeping on.
+
+**November 8th**
+Had a small meeting a with a co-worker to receive some help for this, he taught me a few things that were very helpful, but we didn't find the answer yet. So I continue my journey and am crossing my fingers to find a solution soon.
