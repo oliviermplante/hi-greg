@@ -88,3 +88,9 @@ Sick day #2 :(
 
 **November 11th**
 Jour du Souvenir holiday
+
+**November 14th**
+Still working on getting my client side interface to properly push data to the server side and retrieve the information
+
+**November 15th**
+It works! I was able to make the app work, finally. My web page can now properly push the data to the server side and receive the test confirmation (success or fail) back. Tomorrow is the end of the 3 weeks sprint and I'm very happy to be able to show my working app :). I have a few things to polish and then send it to prod but I'm very happy.
