@@ -103,3 +103,9 @@ Trying to implement the response from Denodo to my project, trying to figure out
 
 **November 18th**
 Managed to implement the response body to my page! It now shows the response in html as coded by Denodo when you sent a request to the server. I'm super stoked :).
+
+**November 21st**
+Finished my first complete project :) Started working on my second, which is to take a virtual database validation report that already exists and add some functionalities and make it better looking.
+
+**November 22nd**
+Started adding more functionalities, such as the date and making errors always appear before warnings in the data table. Slowly making my way to make it look nicer and the code cleaner.
