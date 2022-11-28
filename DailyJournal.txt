@@ -109,3 +109,15 @@ Finished my first complete project :) Started working on my second, which is to 
 
 **November 22nd**
 Started adding more functionalities, such as the date and making errors always appear before warnings in the data table. Slowly making my way to make it look nicer and the code cleaner.
+
+**November 23rd**
+Hard coded the result table for the validations, reading up some documentation on Thymeleaf since this time I'm working on a html page directly in a Java Springboot project, and Thymeleaf is used for it.
+
+**November 24th**
+Team building day! Can you believe it? We had a little meeting in the morning and then went for lunch and to do some axe throwing! Super fun.
+
+**November 25th**
+Tried some stuff such as showing the Database's name in the validation report and what not. Not a lot of success, mostly spent the day reading up on Thymeleaf and trying different things.
+
+**November 28th**
+
