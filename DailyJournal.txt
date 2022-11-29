@@ -120,4 +120,7 @@ Team building day! Can you believe it? We had a little meeting in the morning an
 Tried some stuff such as showing the Database's name in the validation report and what not. Not a lot of success, mostly spent the day reading up on Thymeleaf and trying different things.
 
 **November 28th**
+Continued working on my validation page, had some help from my project leader to and changed some code in Java to be able to display the database name and what not. Continued reading documentation on Thymeleaf.
 
+**November 29th**
+Same thing different day. Had another small meeting with my project leader to help me out and managed to get some things working. Struggling a bit with how to display some information so I'm trying different things and reading more documentation.
