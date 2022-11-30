@@ -124,3 +124,6 @@ Continued working on my validation page, had some help from my project leader to
 
 **November 29th**
 Same thing different day. Had another small meeting with my project leader to help me out and managed to get some things working. Struggling a bit with how to display some information so I'm trying different things and reading more documentation.
+
+**November 30th**
+Managed to make the title of the page change depending on if the test was successful or if it's failed, with a green or red backdrop. Read more documentation on Denodo to understand how to show the total tests run and the success to fail ratio.
