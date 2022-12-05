@@ -127,3 +127,9 @@ Same thing different day. Had another small meeting with my project leader to he
 
 **November 30th**
 Managed to make the title of the page change depending on if the test was successful or if it's failed, with a green or red backdrop. Read more documentation on Denodo to understand how to show the total tests run and the success to fail ratio.
+
+**December 1st**
+Finished my interface, everything works fine. Created some javascript codes to display the succesful/warning/failed tests and made everything slick and nice.
+
+**December 2nd**
+Made sure everything was in order, did some small random tasks and training but no new tasks assigned yet.
