@@ -133,3 +133,9 @@ Finished my interface, everything works fine. Created some javascript codes to d
 
 **December 2nd**
 Made sure everything was in order, did some small random tasks and training but no new tasks assigned yet.
+
+**December 5th**
+Reviewed my code and did a pull request to merge it in the master branch. Did not do much coding, a lot of things are happening in our team and tomorrow is the christmas' party so I'll have my next task on Wednesday.
+
+**December 6h**
+Christmas party! Team building activies in the day and dinner at a restaurant at 5pm. It's a 3 hours drive so no work done in the day.
