@@ -156,9 +156,9 @@ Took the day off today.
 No new tasks, I'm doing some shadowing in meetings and some training.
 
 **December 14th**
-
+No official tasks but two of my co-workers taught me some things and gave me a small exercise to dockerize a react app.
 
 **December 15th**
-
+Continued working on my Dockered react app and trying different things with it.
 
 **December 16th**
